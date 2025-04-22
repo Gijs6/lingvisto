@@ -1,0 +1,3827 @@
+[
+    {
+        "lang": "1C Enterprise",
+        "color": "#814CCC",
+        "type": "programming"
+    },
+    {
+        "lang": "2-Dimensional Array",
+        "color": "#38761D",
+        "type": "data"
+    },
+    {
+        "lang": "4D",
+        "color": "#004289",
+        "type": "programming"
+    },
+    {
+        "lang": "ABAP",
+        "color": "#E8274B",
+        "type": "programming"
+    },
+    {
+        "lang": "ABAP CDS",
+        "color": "#555e25",
+        "type": "programming"
+    },
+    {
+        "lang": "ABNF",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "AGS Script",
+        "color": "#B9D9FF",
+        "type": "programming"
+    },
+    {
+        "lang": "AIDL",
+        "color": "#34EB6B",
+        "type": "programming"
+    },
+    {
+        "lang": "AL",
+        "color": "#3AA2B5",
+        "type": "programming"
+    },
+    {
+        "lang": "AMPL",
+        "color": "#E6EFBB",
+        "type": "programming"
+    },
+    {
+        "lang": "ANTLR",
+        "color": "#9DC3FF",
+        "type": "programming"
+    },
+    {
+        "lang": "API Blueprint",
+        "color": "#2ACCA8",
+        "type": "markup"
+    },
+    {
+        "lang": "APL",
+        "color": "#5A8164",
+        "type": "programming"
+    },
+    {
+        "lang": "ASL",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "ASN.1",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "ASP.NET",
+        "color": "#9400ff",
+        "type": "programming"
+    },
+    {
+        "lang": "ATS",
+        "color": "#1ac620",
+        "type": "programming"
+    },
+    {
+        "lang": "ActionScript",
+        "color": "#882B0F",
+        "type": "programming"
+    },
+    {
+        "lang": "Ada",
+        "color": "#02f88c",
+        "type": "programming"
+    },
+    {
+        "lang": "Adblock Filter List",
+        "color": "#800000",
+        "type": "data"
+    },
+    {
+        "lang": "Adobe Font Metrics",
+        "color": "#fa0f00",
+        "type": "data"
+    },
+    {
+        "lang": "Agda",
+        "color": "#315665",
+        "type": "programming"
+    },
+    {
+        "lang": "Alloy",
+        "color": "#64C800",
+        "type": "programming"
+    },
+    {
+        "lang": "Alpine Abuild",
+        "color": "#0D597F",
+        "type": "programming"
+    },
+    {
+        "lang": "Altium Designer",
+        "color": "#A89663",
+        "type": "data"
+    },
+    {
+        "lang": "AngelScript",
+        "color": "#C7D7DC",
+        "type": "programming"
+    },
+    {
+        "lang": "Answer Set Programming",
+        "color": "#A9CC29",
+        "type": "programming"
+    },
+    {
+        "lang": "Ant Build System",
+        "color": "#A9157E",
+        "type": "data"
+    },
+    {
+        "lang": "Antlers",
+        "color": "#ff269e",
+        "type": "markup"
+    },
+    {
+        "lang": "ApacheConf",
+        "color": "#d12127",
+        "type": "data"
+    },
+    {
+        "lang": "Apex",
+        "color": "#1797c0",
+        "type": "programming"
+    },
+    {
+        "lang": "Apollo Guidance Computer",
+        "color": "#0B3D91",
+        "type": "programming"
+    },
+    {
+        "lang": "AppleScript",
+        "color": "#101F1F",
+        "type": "programming"
+    },
+    {
+        "lang": "Arc",
+        "color": "#aa2afe",
+        "type": "programming"
+    },
+    {
+        "lang": "AsciiDoc",
+        "color": "#73a0c5",
+        "type": "prose"
+    },
+    {
+        "lang": "AspectJ",
+        "color": "#a957b0",
+        "type": "programming"
+    },
+    {
+        "lang": "Assembly",
+        "color": "#6E4C13",
+        "type": "programming"
+    },
+    {
+        "lang": "Astro",
+        "color": "#ff5a03",
+        "type": "markup"
+    },
+    {
+        "lang": "Asymptote",
+        "color": "#ff0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Augeas",
+        "color": "#9CC134",
+        "type": "programming"
+    },
+    {
+        "lang": "AutoHotkey",
+        "color": "#6594b9",
+        "type": "programming"
+    },
+    {
+        "lang": "AutoIt",
+        "color": "#1C3552",
+        "type": "programming"
+    },
+    {
+        "lang": "Avro IDL",
+        "color": "#0040FF",
+        "type": "data"
+    },
+    {
+        "lang": "Awk",
+        "color": "#c30e9b",
+        "type": "programming"
+    },
+    {
+        "lang": "B4X",
+        "color": "#00e4ff",
+        "type": "programming"
+    },
+    {
+        "lang": "BASIC",
+        "color": "#ff0000",
+        "type": "programming"
+    },
+    {
+        "lang": "BQN",
+        "color": "#2b7067",
+        "type": "programming"
+    },
+    {
+        "lang": "Ballerina",
+        "color": "#FF5000",
+        "type": "programming"
+    },
+    {
+        "lang": "Batchfile",
+        "color": "#C1F12E",
+        "type": "programming"
+    },
+    {
+        "lang": "Beef",
+        "color": "#a52f4e",
+        "type": "programming"
+    },
+    {
+        "lang": "Befunge",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Berry",
+        "color": "#15A13C",
+        "type": "programming"
+    },
+    {
+        "lang": "BibTeX",
+        "color": "#778899",
+        "type": "markup"
+    },
+    {
+        "lang": "BibTeX Style",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Bicep",
+        "color": "#519aba",
+        "type": "programming"
+    },
+    {
+        "lang": "Bikeshed",
+        "color": "#5562ac",
+        "type": "markup"
+    },
+    {
+        "lang": "Bison",
+        "color": "#6A463F",
+        "type": "programming"
+    },
+    {
+        "lang": "BitBake",
+        "color": "#00bce4",
+        "type": "programming"
+    },
+    {
+        "lang": "Blade",
+        "color": "#f7523f",
+        "type": "markup"
+    },
+    {
+        "lang": "BlitzBasic",
+        "color": "#00FFAE",
+        "type": "programming"
+    },
+    {
+        "lang": "BlitzMax",
+        "color": "#cd6400",
+        "type": "programming"
+    },
+    {
+        "lang": "Bluespec",
+        "color": "#12223c",
+        "type": "programming"
+    },
+    {
+        "lang": "Bluespec BH",
+        "color": "#12223c",
+        "type": "programming"
+    },
+    {
+        "lang": "Boo",
+        "color": "#d4bec1",
+        "type": "programming"
+    },
+    {
+        "lang": "Boogie",
+        "color": "#c80fa0",
+        "type": "programming"
+    },
+    {
+        "lang": "Brainfuck",
+        "color": "#2F2530",
+        "type": "programming"
+    },
+    {
+        "lang": "BrighterScript",
+        "color": "#66AABB",
+        "type": "programming"
+    },
+    {
+        "lang": "Brightscript",
+        "color": "#662D91",
+        "type": "programming"
+    },
+    {
+        "lang": "Browserslist",
+        "color": "#ffd539",
+        "type": "data"
+    },
+    {
+        "lang": "C",
+        "color": "#555555",
+        "type": "programming"
+    },
+    {
+        "lang": "C#",
+        "color": "#178600",
+        "type": "programming"
+    },
+    {
+        "lang": "C++",
+        "color": "#f34b7d",
+        "type": "programming"
+    },
+    {
+        "lang": "C-ObjDump",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "C2hs Haskell",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "CAP CDS",
+        "color": "#0092d1",
+        "type": "programming"
+    },
+    {
+        "lang": "CIL",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "CLIPS",
+        "color": "#00A300",
+        "type": "programming"
+    },
+    {
+        "lang": "CMake",
+        "color": "#DA3434",
+        "type": "programming"
+    },
+    {
+        "lang": "COBOL",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "CODEOWNERS",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "COLLADA",
+        "color": "#F1A42B",
+        "type": "data"
+    },
+    {
+        "lang": "CSON",
+        "color": "#244776",
+        "type": "data"
+    },
+    {
+        "lang": "CSS",
+        "color": "#663399",
+        "type": "markup"
+    },
+    {
+        "lang": "CSV",
+        "color": "#237346",
+        "type": "data"
+    },
+    {
+        "lang": "CUE",
+        "color": "#5886E1",
+        "type": "programming"
+    },
+    {
+        "lang": "CWeb",
+        "color": "#00007a",
+        "type": "programming"
+    },
+    {
+        "lang": "Cabal Config",
+        "color": "#483465",
+        "type": "data"
+    },
+    {
+        "lang": "Caddyfile",
+        "color": "#22b638",
+        "type": "data"
+    },
+    {
+        "lang": "Cadence",
+        "color": "#00ef8b",
+        "type": "programming"
+    },
+    {
+        "lang": "Cairo",
+        "color": "#ff4a48",
+        "type": "programming"
+    },
+    {
+        "lang": "Cairo Zero",
+        "color": "#ff4a48",
+        "type": "programming"
+    },
+    {
+        "lang": "CameLIGO",
+        "color": "#3be133",
+        "type": "programming"
+    },
+    {
+        "lang": "Cap'n Proto",
+        "color": "#c42727",
+        "type": "programming"
+    },
+    {
+        "lang": "Carbon",
+        "color": "#222222",
+        "type": "programming"
+    },
+    {
+        "lang": "CartoCSS",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Ceylon",
+        "color": "#dfa535",
+        "type": "programming"
+    },
+    {
+        "lang": "Chapel",
+        "color": "#8dc63f",
+        "type": "programming"
+    },
+    {
+        "lang": "Charity",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Checksums",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "ChucK",
+        "color": "#3f8000",
+        "type": "programming"
+    },
+    {
+        "lang": "Circom",
+        "color": "#707575",
+        "type": "programming"
+    },
+    {
+        "lang": "Cirru",
+        "color": "#ccccff",
+        "type": "programming"
+    },
+    {
+        "lang": "Clarion",
+        "color": "#db901e",
+        "type": "programming"
+    },
+    {
+        "lang": "Clarity",
+        "color": "#5546ff",
+        "type": "programming"
+    },
+    {
+        "lang": "Classic ASP",
+        "color": "#6a40fd",
+        "type": "programming"
+    },
+    {
+        "lang": "Clean",
+        "color": "#3F85AF",
+        "type": "programming"
+    },
+    {
+        "lang": "Click",
+        "color": "#E4E6F3",
+        "type": "programming"
+    },
+    {
+        "lang": "Clojure",
+        "color": "#db5855",
+        "type": "programming"
+    },
+    {
+        "lang": "Closure Templates",
+        "color": "#0d948f",
+        "type": "markup"
+    },
+    {
+        "lang": "Cloud Firestore Security Rules",
+        "color": "#FFA000",
+        "type": "data"
+    },
+    {
+        "lang": "CoNLL-U",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "CodeQL",
+        "color": "#140f46",
+        "type": "programming"
+    },
+    {
+        "lang": "CoffeeScript",
+        "color": "#244776",
+        "type": "programming"
+    },
+    {
+        "lang": "ColdFusion",
+        "color": "#ed2cd6",
+        "type": "programming"
+    },
+    {
+        "lang": "ColdFusion CFC",
+        "color": "#ed2cd6",
+        "type": "programming"
+    },
+    {
+        "lang": "Common Lisp",
+        "color": "#3fb68b",
+        "type": "programming"
+    },
+    {
+        "lang": "Common Workflow Language",
+        "color": "#B5314C",
+        "type": "programming"
+    },
+    {
+        "lang": "Component Pascal",
+        "color": "#B0CE4E",
+        "type": "programming"
+    },
+    {
+        "lang": "Cool",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Cpp-ObjDump",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Creole",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    {
+        "lang": "Crystal",
+        "color": "#000100",
+        "type": "programming"
+    },
+    {
+        "lang": "Csound",
+        "color": "#1a1a1a",
+        "type": "programming"
+    },
+    {
+        "lang": "Csound Document",
+        "color": "#1a1a1a",
+        "type": "programming"
+    },
+    {
+        "lang": "Csound Score",
+        "color": "#1a1a1a",
+        "type": "programming"
+    },
+    {
+        "lang": "Cuda",
+        "color": "#3A4E3A",
+        "type": "programming"
+    },
+    {
+        "lang": "Cue Sheet",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Curry",
+        "color": "#531242",
+        "type": "programming"
+    },
+    {
+        "lang": "Cycript",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Cylc",
+        "color": "#00b3fd",
+        "type": "data"
+    },
+    {
+        "lang": "Cypher",
+        "color": "#34c0eb",
+        "type": "programming"
+    },
+    {
+        "lang": "Cython",
+        "color": "#fedf5b",
+        "type": "programming"
+    },
+    {
+        "lang": "D",
+        "color": "#ba595e",
+        "type": "programming"
+    },
+    {
+        "lang": "D-ObjDump",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "D2",
+        "color": "#526ee8",
+        "type": "markup"
+    },
+    {
+        "lang": "DIGITAL Command Language",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "DM",
+        "color": "#447265",
+        "type": "programming"
+    },
+    {
+        "lang": "DNS Zone",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "DTrace",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Dafny",
+        "color": "#FFEC25",
+        "type": "programming"
+    },
+    {
+        "lang": "Darcs Patch",
+        "color": "#8eff23",
+        "type": "data"
+    },
+    {
+        "lang": "Dart",
+        "color": "#00B4AB",
+        "type": "programming"
+    },
+    {
+        "lang": "DataWeave",
+        "color": "#003a52",
+        "type": "programming"
+    },
+    {
+        "lang": "Debian Package Control File",
+        "color": "#D70751",
+        "type": "data"
+    },
+    {
+        "lang": "DenizenScript",
+        "color": "#FBEE96",
+        "type": "programming"
+    },
+    {
+        "lang": "Dhall",
+        "color": "#dfafff",
+        "type": "programming"
+    },
+    {
+        "lang": "Diff",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "DirectX 3D File",
+        "color": "#aace60",
+        "type": "data"
+    },
+    {
+        "lang": "Dockerfile",
+        "color": "#384d54",
+        "type": "programming"
+    },
+    {
+        "lang": "Dogescript",
+        "color": "#cca760",
+        "type": "programming"
+    },
+    {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    {
+        "lang": "Dune",
+        "color": "#89421e",
+        "type": "programming"
+    },
+    {
+        "lang": "Dylan",
+        "color": "#6c616e",
+        "type": "programming"
+    },
+    {
+        "lang": "E",
+        "color": "#ccce35",
+        "type": "programming"
+    },
+    {
+        "lang": "E-mail",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "EBNF",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "ECL",
+        "color": "#8a1267",
+        "type": "programming"
+    },
+    {
+        "lang": "ECLiPSe",
+        "color": "#001d9d",
+        "type": "programming"
+    },
+    {
+        "lang": "EJS",
+        "color": "#a91e50",
+        "type": "markup"
+    },
+    {
+        "lang": "EQ",
+        "color": "#a78649",
+        "type": "programming"
+    },
+    {
+        "lang": "Eagle",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Earthly",
+        "color": "#2af0ff",
+        "type": "programming"
+    },
+    {
+        "lang": "Easybuild",
+        "color": "#069406",
+        "type": "data"
+    },
+    {
+        "lang": "Ecere Projects",
+        "color": "#913960",
+        "type": "data"
+    },
+    {
+        "lang": "Ecmarkup",
+        "color": "#eb8131",
+        "type": "markup"
+    },
+    {
+        "lang": "Edge",
+        "color": "#0dffe0",
+        "type": "markup"
+    },
+    {
+        "lang": "EdgeQL",
+        "color": "#31A7FF",
+        "type": "programming"
+    },
+    {
+        "lang": "EditorConfig",
+        "color": "#fff1f2",
+        "type": "data"
+    },
+    {
+        "lang": "Edje Data Collection",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Eiffel",
+        "color": "#4d6977",
+        "type": "programming"
+    },
+    {
+        "lang": "Elixir",
+        "color": "#6e4a7e",
+        "type": "programming"
+    },
+    {
+        "lang": "Elm",
+        "color": "#60B5CC",
+        "type": "programming"
+    },
+    {
+        "lang": "Elvish",
+        "color": "#55BB55",
+        "type": "programming"
+    },
+    {
+        "lang": "Elvish Transcript",
+        "color": "#55BB55",
+        "type": "programming"
+    },
+    {
+        "lang": "Emacs Lisp",
+        "color": "#c065db",
+        "type": "programming"
+    },
+    {
+        "lang": "EmberScript",
+        "color": "#FFF4F3",
+        "type": "programming"
+    },
+    {
+        "lang": "Erlang",
+        "color": "#B83998",
+        "type": "programming"
+    },
+    {
+        "lang": "Euphoria",
+        "color": "#FF790B",
+        "type": "programming"
+    },
+    {
+        "lang": "F#",
+        "color": "#b845fc",
+        "type": "programming"
+    },
+    {
+        "lang": "F*",
+        "color": "#572e30",
+        "type": "programming"
+    },
+    {
+        "lang": "FIGlet Font",
+        "color": "#FFDDBB",
+        "type": "data"
+    },
+    {
+        "lang": "FIRRTL",
+        "color": "#2f632f",
+        "type": "programming"
+    },
+    {
+        "lang": "FLUX",
+        "color": "#88ccff",
+        "type": "programming"
+    },
+    {
+        "lang": "Factor",
+        "color": "#636746",
+        "type": "programming"
+    },
+    {
+        "lang": "Fancy",
+        "color": "#7b9db4",
+        "type": "programming"
+    },
+    {
+        "lang": "Fantom",
+        "color": "#14253c",
+        "type": "programming"
+    },
+    {
+        "lang": "Faust",
+        "color": "#c37240",
+        "type": "programming"
+    },
+    {
+        "lang": "Fennel",
+        "color": "#fff3d7",
+        "type": "programming"
+    },
+    {
+        "lang": "Filebench WML",
+        "color": "#F6B900",
+        "type": "programming"
+    },
+    {
+        "lang": "Filterscript",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Fluent",
+        "color": "#ffcc33",
+        "type": "programming"
+    },
+    {
+        "lang": "Formatted",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Forth",
+        "color": "#341708",
+        "type": "programming"
+    },
+    {
+        "lang": "Fortran",
+        "color": "#4d41b1",
+        "type": "programming"
+    },
+    {
+        "lang": "Fortran Free Form",
+        "color": "#4d41b1",
+        "type": "programming"
+    },
+    {
+        "lang": "FreeBASIC",
+        "color": "#141AC9",
+        "type": "programming"
+    },
+    {
+        "lang": "FreeMarker",
+        "color": "#0050b2",
+        "type": "programming"
+    },
+    {
+        "lang": "Frege",
+        "color": "#00cafe",
+        "type": "programming"
+    },
+    {
+        "lang": "Futhark",
+        "color": "#5f021f",
+        "type": "programming"
+    },
+    {
+        "lang": "G-code",
+        "color": "#D08CF2",
+        "type": "programming"
+    },
+    {
+        "lang": "GAML",
+        "color": "#FFC766",
+        "type": "programming"
+    },
+    {
+        "lang": "GAMS",
+        "color": "#f49a22",
+        "type": "programming"
+    },
+    {
+        "lang": "GAP",
+        "color": "#0000cc",
+        "type": "programming"
+    },
+    {
+        "lang": "GCC Machine Description",
+        "color": "#FFCFAB",
+        "type": "programming"
+    },
+    {
+        "lang": "GDB",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "GDScript",
+        "color": "#355570",
+        "type": "programming"
+    },
+    {
+        "lang": "GEDCOM",
+        "color": "#003058",
+        "type": "data"
+    },
+    {
+        "lang": "GLSL",
+        "color": "#5686a5",
+        "type": "programming"
+    },
+    {
+        "lang": "GN",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "GSC",
+        "color": "#FF6800",
+        "type": "programming"
+    },
+    {
+        "lang": "Game Maker Language",
+        "color": "#71b417",
+        "type": "programming"
+    },
+    {
+        "lang": "Gemfile.lock",
+        "color": "#701516",
+        "type": "data"
+    },
+    {
+        "lang": "Gemini",
+        "color": "#ff6900",
+        "type": "prose"
+    },
+    {
+        "lang": "Genero 4gl",
+        "color": "#63408e",
+        "type": "programming"
+    },
+    {
+        "lang": "Genero per",
+        "color": "#d8df39",
+        "type": "markup"
+    },
+    {
+        "lang": "Genie",
+        "color": "#fb855d",
+        "type": "programming"
+    },
+    {
+        "lang": "Genshi",
+        "color": "#951531",
+        "type": "programming"
+    },
+    {
+        "lang": "Gentoo Ebuild",
+        "color": "#9400ff",
+        "type": "programming"
+    },
+    {
+        "lang": "Gentoo Eclass",
+        "color": "#9400ff",
+        "type": "programming"
+    },
+    {
+        "lang": "Gerber Image",
+        "color": "#d20b00",
+        "type": "data"
+    },
+    {
+        "lang": "Gettext Catalog",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    {
+        "lang": "Gherkin",
+        "color": "#5B2063",
+        "type": "programming"
+    },
+    {
+        "lang": "Git Attributes",
+        "color": "#F44D27",
+        "type": "data"
+    },
+    {
+        "lang": "Git Config",
+        "color": "#F44D27",
+        "type": "data"
+    },
+    {
+        "lang": "Git Revision List",
+        "color": "#F44D27",
+        "type": "data"
+    },
+    {
+        "lang": "Gleam",
+        "color": "#ffaff3",
+        "type": "programming"
+    },
+    {
+        "lang": "Glimmer JS",
+        "color": "#F5835F",
+        "type": "programming"
+    },
+    {
+        "lang": "Glimmer TS",
+        "color": "#3178c6",
+        "type": "programming"
+    },
+    {
+        "lang": "Glyph",
+        "color": "#c1ac7f",
+        "type": "programming"
+    },
+    {
+        "lang": "Glyph Bitmap Distribution Format",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Gnuplot",
+        "color": "#f0a9f0",
+        "type": "programming"
+    },
+    {
+        "lang": "Go",
+        "color": "#00ADD8",
+        "type": "programming"
+    },
+    {
+        "lang": "Go Checksums",
+        "color": "#00ADD8",
+        "type": "data"
+    },
+    {
+        "lang": "Go Module",
+        "color": "#00ADD8",
+        "type": "data"
+    },
+    {
+        "lang": "Go Workspace",
+        "color": "#00ADD8",
+        "type": "data"
+    },
+    {
+        "lang": "Godot Resource",
+        "color": "#355570",
+        "type": "data"
+    },
+    {
+        "lang": "Golo",
+        "color": "#88562A",
+        "type": "programming"
+    },
+    {
+        "lang": "Gosu",
+        "color": "#82937f",
+        "type": "programming"
+    },
+    {
+        "lang": "Grace",
+        "color": "#615f8b",
+        "type": "programming"
+    },
+    {
+        "lang": "Gradle",
+        "color": "#02303a",
+        "type": "data"
+    },
+    {
+        "lang": "Gradle Kotlin DSL",
+        "color": "#02303a",
+        "type": "data"
+    },
+    {
+        "lang": "Grammatical Framework",
+        "color": "#ff0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Graph Modeling Language",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "GraphQL",
+        "color": "#e10098",
+        "type": "data"
+    },
+    {
+        "lang": "Graphviz (DOT)",
+        "color": "#2596be",
+        "type": "data"
+    },
+    {
+        "lang": "Groovy",
+        "color": "#4298b8",
+        "type": "programming"
+    },
+    {
+        "lang": "Groovy Server Pages",
+        "color": "#4298b8",
+        "type": "programming"
+    },
+    {
+        "lang": "HAProxy",
+        "color": "#106da9",
+        "type": "data"
+    },
+    {
+        "lang": "HCL",
+        "color": "#844FBA",
+        "type": "programming"
+    },
+    {
+        "lang": "HIP",
+        "color": "#4F3A4F",
+        "type": "programming"
+    },
+    {
+        "lang": "HLSL",
+        "color": "#aace60",
+        "type": "programming"
+    },
+    {
+        "lang": "HOCON",
+        "color": "#9ff8ee",
+        "type": "data"
+    },
+    {
+        "lang": "HTML",
+        "color": "#e34c26",
+        "type": "markup"
+    },
+    {
+        "lang": "HTML+ECR",
+        "color": "#2e1052",
+        "type": "markup"
+    },
+    {
+        "lang": "HTML+EEX",
+        "color": "#6e4a7e",
+        "type": "markup"
+    },
+    {
+        "lang": "HTML+ERB",
+        "color": "#701516",
+        "type": "markup"
+    },
+    {
+        "lang": "HTML+PHP",
+        "color": "#4f5d95",
+        "type": "markup"
+    },
+    {
+        "lang": "HTML+Razor",
+        "color": "#512be4",
+        "type": "markup"
+    },
+    {
+        "lang": "HTTP",
+        "color": "#005C9C",
+        "type": "data"
+    },
+    {
+        "lang": "HXML",
+        "color": "#f68712",
+        "type": "data"
+    },
+    {
+        "lang": "Hack",
+        "color": "#878787",
+        "type": "programming"
+    },
+    {
+        "lang": "Haml",
+        "color": "#ece2a9",
+        "type": "markup"
+    },
+    {
+        "lang": "Handlebars",
+        "color": "#f7931e",
+        "type": "markup"
+    },
+    {
+        "lang": "Harbour",
+        "color": "#0e60e3",
+        "type": "programming"
+    },
+    {
+        "lang": "Hare",
+        "color": "#9d7424",
+        "type": "programming"
+    },
+    {
+        "lang": "Haskell",
+        "color": "#5e5086",
+        "type": "programming"
+    },
+    {
+        "lang": "Haxe",
+        "color": "#df7900",
+        "type": "programming"
+    },
+    {
+        "lang": "HiveQL",
+        "color": "#dce200",
+        "type": "programming"
+    },
+    {
+        "lang": "HolyC",
+        "color": "#ffefaf",
+        "type": "programming"
+    },
+    {
+        "lang": "Hosts File",
+        "color": "#308888",
+        "type": "data"
+    },
+    {
+        "lang": "Hy",
+        "color": "#7790B2",
+        "type": "programming"
+    },
+    {
+        "lang": "HyPhy",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "IDL",
+        "color": "#a3522f",
+        "type": "programming"
+    },
+    {
+        "lang": "IGOR Pro",
+        "color": "#0000cc",
+        "type": "programming"
+    },
+    {
+        "lang": "INI",
+        "color": "#d1dbe0",
+        "type": "data"
+    },
+    {
+        "lang": "IRC log",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "ISPC",
+        "color": "#2D68B1",
+        "type": "programming"
+    },
+    {
+        "lang": "Idris",
+        "color": "#b30000",
+        "type": "programming"
+    },
+    {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    {
+        "lang": "ImageJ Macro",
+        "color": "#99AAFF",
+        "type": "programming"
+    },
+    {
+        "lang": "Imba",
+        "color": "#16cec6",
+        "type": "programming"
+    },
+    {
+        "lang": "Inform 7",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Ink",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Inno Setup",
+        "color": "#264b99",
+        "type": "programming"
+    },
+    {
+        "lang": "Io",
+        "color": "#a9188d",
+        "type": "programming"
+    },
+    {
+        "lang": "Ioke",
+        "color": "#078193",
+        "type": "programming"
+    },
+    {
+        "lang": "Isabelle",
+        "color": "#FEFE00",
+        "type": "programming"
+    },
+    {
+        "lang": "Isabelle ROOT",
+        "color": "#FEFE00",
+        "type": "programming"
+    },
+    {
+        "lang": "J",
+        "color": "#9EEDFF",
+        "type": "programming"
+    },
+    {
+        "lang": "JAR Manifest",
+        "color": "#b07219",
+        "type": "data"
+    },
+    {
+        "lang": "JCL",
+        "color": "#d90e09",
+        "type": "programming"
+    },
+    {
+        "lang": "JFlex",
+        "color": "#DBCA00",
+        "type": "programming"
+    },
+    {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    {
+        "lang": "JSON5",
+        "color": "#267CB9",
+        "type": "data"
+    },
+    {
+        "lang": "JSONLD",
+        "color": "#0c479c",
+        "type": "data"
+    },
+    {
+        "lang": "JSONiq",
+        "color": "#40d47e",
+        "type": "programming"
+    },
+    {
+        "lang": "Jai",
+        "color": "#ab8b4b",
+        "type": "programming"
+    },
+    {
+        "lang": "Janet",
+        "color": "#0886a5",
+        "type": "programming"
+    },
+    {
+        "lang": "Jasmin",
+        "color": "#d03600",
+        "type": "programming"
+    },
+    {
+        "lang": "Java",
+        "color": "#b07219",
+        "type": "programming"
+    },
+    {
+        "lang": "Java Properties",
+        "color": "#2A6277",
+        "type": "data"
+    },
+    {
+        "lang": "Java Server Pages",
+        "color": "#2A6277",
+        "type": "programming"
+    },
+    {
+        "lang": "Java Template Engine",
+        "color": "#2A6277",
+        "type": "programming"
+    },
+    {
+        "lang": "JavaScript",
+        "color": "#f1e05a",
+        "type": "programming"
+    },
+    {
+        "lang": "JavaScript+ERB",
+        "color": "#f1e05a",
+        "type": "programming"
+    },
+    {
+        "lang": "Jest Snapshot",
+        "color": "#15c213",
+        "type": "data"
+    },
+    {
+        "lang": "JetBrains MPS",
+        "color": "#21D789",
+        "type": "programming"
+    },
+    {
+        "lang": "Jinja",
+        "color": "#a52a22",
+        "type": "markup"
+    },
+    {
+        "lang": "Jison",
+        "color": "#56b3cb",
+        "type": "programming"
+    },
+    {
+        "lang": "Jison Lex",
+        "color": "#56b3cb",
+        "type": "programming"
+    },
+    {
+        "lang": "Jolie",
+        "color": "#843179",
+        "type": "programming"
+    },
+    {
+        "lang": "Jsonnet",
+        "color": "#0064bd",
+        "type": "programming"
+    },
+    {
+        "lang": "Julia",
+        "color": "#a270ba",
+        "type": "programming"
+    },
+    {
+        "lang": "Julia REPL",
+        "color": "#a270ba",
+        "type": "programming"
+    },
+    {
+        "lang": "Jupyter Notebook",
+        "color": "#DA5B0B",
+        "type": "markup"
+    },
+    {
+        "lang": "Just",
+        "color": "#384d54",
+        "type": "programming"
+    },
+    {
+        "lang": "KDL",
+        "color": "#ffb3b3",
+        "type": "data"
+    },
+    {
+        "lang": "KRL",
+        "color": "#28430A",
+        "type": "programming"
+    },
+    {
+        "lang": "Kaitai Struct",
+        "color": "#773b37",
+        "type": "programming"
+    },
+    {
+        "lang": "KakouneScript",
+        "color": "#6f8042",
+        "type": "programming"
+    },
+    {
+        "lang": "KerboScript",
+        "color": "#41adf0",
+        "type": "programming"
+    },
+    {
+        "lang": "KiCad Layout",
+        "color": "#2f4aab",
+        "type": "data"
+    },
+    {
+        "lang": "KiCad Legacy Layout",
+        "color": "#2f4aab",
+        "type": "data"
+    },
+    {
+        "lang": "KiCad Schematic",
+        "color": "#2f4aab",
+        "type": "data"
+    },
+    {
+        "lang": "Kickstart",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Kit",
+        "color": "#FF0000",
+        "type": "markup"
+    },
+    {
+        "lang": "Koka",
+        "color": "#215166",
+        "type": "programming"
+    },
+    {
+        "lang": "Kotlin",
+        "color": "#A97BFF",
+        "type": "programming"
+    },
+    {
+        "lang": "Kusto",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "LFE",
+        "color": "#4C3023",
+        "type": "programming"
+    },
+    {
+        "lang": "LLVM",
+        "color": "#185619",
+        "type": "programming"
+    },
+    {
+        "lang": "LOLCODE",
+        "color": "#cc9900",
+        "type": "programming"
+    },
+    {
+        "lang": "LSL",
+        "color": "#3d9970",
+        "type": "programming"
+    },
+    {
+        "lang": "LTspice Symbol",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "LabVIEW",
+        "color": "#fede06",
+        "type": "programming"
+    },
+    {
+        "lang": "Lark",
+        "color": "#2980B9",
+        "type": "data"
+    },
+    {
+        "lang": "Lasso",
+        "color": "#999999",
+        "type": "programming"
+    },
+    {
+        "lang": "Latte",
+        "color": "#f2a542",
+        "type": "markup"
+    },
+    {
+        "lang": "Lean",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Lean 4",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Less",
+        "color": "#1d365d",
+        "type": "markup"
+    },
+    {
+        "lang": "Lex",
+        "color": "#DBCA00",
+        "type": "programming"
+    },
+    {
+        "lang": "LigoLANG",
+        "color": "#0e74ff",
+        "type": "programming"
+    },
+    {
+        "lang": "LilyPond",
+        "color": "#9ccc7c",
+        "type": "programming"
+    },
+    {
+        "lang": "Limbo",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Linear Programming",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Linker Script",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Linux Kernel Module",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Liquid",
+        "color": "#67b8de",
+        "type": "markup"
+    },
+    {
+        "lang": "Literate Agda",
+        "color": "#315665",
+        "type": "programming"
+    },
+    {
+        "lang": "Literate CoffeeScript",
+        "color": "#244776",
+        "type": "programming"
+    },
+    {
+        "lang": "Literate Haskell",
+        "color": "#5e5086",
+        "type": "programming"
+    },
+    {
+        "lang": "LiveCode Script",
+        "color": "#0c5ba5",
+        "type": "programming"
+    },
+    {
+        "lang": "LiveScript",
+        "color": "#499886",
+        "type": "programming"
+    },
+    {
+        "lang": "Logos",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Logtalk",
+        "color": "#295b9a",
+        "type": "programming"
+    },
+    {
+        "lang": "LookML",
+        "color": "#652B81",
+        "type": "programming"
+    },
+    {
+        "lang": "LoomScript",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Lua",
+        "color": "#000080",
+        "type": "programming"
+    },
+    {
+        "lang": "Luau",
+        "color": "#00A2FF",
+        "type": "programming"
+    },
+    {
+        "lang": "M",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "M4",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "M4Sugar",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "MATLAB",
+        "color": "#e16737",
+        "type": "programming"
+    },
+    {
+        "lang": "MAXScript",
+        "color": "#00a6a6",
+        "type": "programming"
+    },
+    {
+        "lang": "MDX",
+        "color": "#fcb32c",
+        "type": "markup"
+    },
+    {
+        "lang": "MLIR",
+        "color": "#5EC8DB",
+        "type": "programming"
+    },
+    {
+        "lang": "MQL4",
+        "color": "#62A8D6",
+        "type": "programming"
+    },
+    {
+        "lang": "MQL5",
+        "color": "#4A76B8",
+        "type": "programming"
+    },
+    {
+        "lang": "MTML",
+        "color": "#b7e1f4",
+        "type": "markup"
+    },
+    {
+        "lang": "MUF",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Macaulay2",
+        "color": "#d8ffff",
+        "type": "programming"
+    },
+    {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    {
+        "lang": "Mako",
+        "color": "#7e858d",
+        "type": "programming"
+    },
+    {
+        "lang": "Markdown",
+        "color": "#083fa1",
+        "type": "prose"
+    },
+    {
+        "lang": "Marko",
+        "color": "#42bff2",
+        "type": "markup"
+    },
+    {
+        "lang": "Mask",
+        "color": "#f97732",
+        "type": "markup"
+    },
+    {
+        "lang": "Mathematica",
+        "color": "#dd1100",
+        "type": "programming"
+    },
+    {
+        "lang": "Maven POM",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Max",
+        "color": "#c4a79c",
+        "type": "programming"
+    },
+    {
+        "lang": "Mercury",
+        "color": "#ff2b2b",
+        "type": "programming"
+    },
+    {
+        "lang": "Mermaid",
+        "color": "#ff3670",
+        "type": "markup"
+    },
+    {
+        "lang": "Meson",
+        "color": "#007800",
+        "type": "programming"
+    },
+    {
+        "lang": "Metal",
+        "color": "#8f14e9",
+        "type": "programming"
+    },
+    {
+        "lang": "Microsoft Developer Studio Project",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Microsoft Visual Studio Solution",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "MiniD",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "MiniYAML",
+        "color": "#ff1111",
+        "type": "data"
+    },
+    {
+        "lang": "MiniZinc",
+        "color": "#06a9e6",
+        "type": "programming"
+    },
+    {
+        "lang": "MiniZinc Data",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Mint",
+        "color": "#02b046",
+        "type": "programming"
+    },
+    {
+        "lang": "Mirah",
+        "color": "#c7a938",
+        "type": "programming"
+    },
+    {
+        "lang": "Modelica",
+        "color": "#de1d31",
+        "type": "programming"
+    },
+    {
+        "lang": "Modula-2",
+        "color": "#10253f",
+        "type": "programming"
+    },
+    {
+        "lang": "Modula-3",
+        "color": "#223388",
+        "type": "programming"
+    },
+    {
+        "lang": "Module Management System",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Mojo",
+        "color": "#ff4c1f",
+        "type": "programming"
+    },
+    {
+        "lang": "Monkey",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Monkey C",
+        "color": "#8D6747",
+        "type": "programming"
+    },
+    {
+        "lang": "Moocode",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "MoonBit",
+        "color": "#b92381",
+        "type": "programming"
+    },
+    {
+        "lang": "MoonScript",
+        "color": "#ff4585",
+        "type": "programming"
+    },
+    {
+        "lang": "Motoko",
+        "color": "#fbb03b",
+        "type": "programming"
+    },
+    {
+        "lang": "Motorola 68K Assembly",
+        "color": "#005daa",
+        "type": "programming"
+    },
+    {
+        "lang": "Move",
+        "color": "#4a137a",
+        "type": "programming"
+    },
+    {
+        "lang": "Muse",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    {
+        "lang": "Mustache",
+        "color": "#724b3b",
+        "type": "markup"
+    },
+    {
+        "lang": "Myghty",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "NASL",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "NCL",
+        "color": "#28431f",
+        "type": "programming"
+    },
+    {
+        "lang": "NEON",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "NL",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "NMODL",
+        "color": "#00356B",
+        "type": "programming"
+    },
+    {
+        "lang": "NPM Config",
+        "color": "#cb3837",
+        "type": "data"
+    },
+    {
+        "lang": "NSIS",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "NWScript",
+        "color": "#111522",
+        "type": "programming"
+    },
+    {
+        "lang": "Nasal",
+        "color": "#1d2c4e",
+        "type": "programming"
+    },
+    {
+        "lang": "Nearley",
+        "color": "#990000",
+        "type": "programming"
+    },
+    {
+        "lang": "Nemerle",
+        "color": "#3d3c6e",
+        "type": "programming"
+    },
+    {
+        "lang": "NetLinx",
+        "color": "#0aa0ff",
+        "type": "programming"
+    },
+    {
+        "lang": "NetLinx+ERB",
+        "color": "#747faa",
+        "type": "programming"
+    },
+    {
+        "lang": "NetLogo",
+        "color": "#ff6375",
+        "type": "programming"
+    },
+    {
+        "lang": "NewLisp",
+        "color": "#87AED7",
+        "type": "programming"
+    },
+    {
+        "lang": "Nextflow",
+        "color": "#3ac486",
+        "type": "programming"
+    },
+    {
+        "lang": "Nginx",
+        "color": "#009639",
+        "type": "data"
+    },
+    {
+        "lang": "Nim",
+        "color": "#ffc200",
+        "type": "programming"
+    },
+    {
+        "lang": "Ninja",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Nit",
+        "color": "#009917",
+        "type": "programming"
+    },
+    {
+        "lang": "Nix",
+        "color": "#7e7eff",
+        "type": "programming"
+    },
+    {
+        "lang": "Noir",
+        "color": "#2f1f49",
+        "type": "programming"
+    },
+    {
+        "lang": "Nu",
+        "color": "#c9df40",
+        "type": "programming"
+    },
+    {
+        "lang": "NumPy",
+        "color": "#9C8AF9",
+        "type": "programming"
+    },
+    {
+        "lang": "Nunjucks",
+        "color": "#3d8137",
+        "type": "markup"
+    },
+    {
+        "lang": "Nushell",
+        "color": "#4E9906",
+        "type": "programming"
+    },
+    {
+        "lang": "OASv2-json",
+        "color": "#85ea2d",
+        "type": "data"
+    },
+    {
+        "lang": "OASv2-yaml",
+        "color": "#85ea2d",
+        "type": "data"
+    },
+    {
+        "lang": "OASv3-json",
+        "color": "#85ea2d",
+        "type": "data"
+    },
+    {
+        "lang": "OASv3-yaml",
+        "color": "#85ea2d",
+        "type": "data"
+    },
+    {
+        "lang": "OCaml",
+        "color": "#ef7a08",
+        "type": "programming"
+    },
+    {
+        "lang": "OMNeT++ MSG",
+        "color": "#a0e0a0",
+        "type": "programming"
+    },
+    {
+        "lang": "OMNeT++ NED",
+        "color": "#08607c",
+        "type": "programming"
+    },
+    {
+        "lang": "Oberon",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "ObjDump",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Object Data Instance Notation",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "ObjectScript",
+        "color": "#424893",
+        "type": "programming"
+    },
+    {
+        "lang": "Objective-C",
+        "color": "#438eff",
+        "type": "programming"
+    },
+    {
+        "lang": "Objective-C++",
+        "color": "#6866fb",
+        "type": "programming"
+    },
+    {
+        "lang": "Objective-J",
+        "color": "#ff0c5a",
+        "type": "programming"
+    },
+    {
+        "lang": "Odin",
+        "color": "#60AFFE",
+        "type": "programming"
+    },
+    {
+        "lang": "Omgrofl",
+        "color": "#cabbff",
+        "type": "programming"
+    },
+    {
+        "lang": "Opa",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Opal",
+        "color": "#f7ede0",
+        "type": "programming"
+    },
+    {
+        "lang": "Open Policy Agent",
+        "color": "#7d9199",
+        "type": "programming"
+    },
+    {
+        "lang": "OpenAPI Specification v2",
+        "color": "#85ea2d",
+        "type": "data"
+    },
+    {
+        "lang": "OpenAPI Specification v3",
+        "color": "#85ea2d",
+        "type": "data"
+    },
+    {
+        "lang": "OpenCL",
+        "color": "#ed2e2d",
+        "type": "programming"
+    },
+    {
+        "lang": "OpenEdge ABL",
+        "color": "#5ce600",
+        "type": "programming"
+    },
+    {
+        "lang": "OpenQASM",
+        "color": "#AA70FF",
+        "type": "programming"
+    },
+    {
+        "lang": "OpenRC runscript",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "OpenSCAD",
+        "color": "#e5cd45",
+        "type": "programming"
+    },
+    {
+        "lang": "OpenStep Property List",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "OpenType Feature File",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Option List",
+        "color": "#476732",
+        "type": "data"
+    },
+    {
+        "lang": "Org",
+        "color": "#77aa99",
+        "type": "prose"
+    },
+    {
+        "lang": "OverpassQL",
+        "color": "#cce2aa",
+        "type": "programming"
+    },
+    {
+        "lang": "Ox",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Oxygene",
+        "color": "#cdd0e3",
+        "type": "programming"
+    },
+    {
+        "lang": "Oz",
+        "color": "#fab738",
+        "type": "programming"
+    },
+    {
+        "lang": "P4",
+        "color": "#7055b5",
+        "type": "programming"
+    },
+    {
+        "lang": "PDDL",
+        "color": "#0d00ff",
+        "type": "programming"
+    },
+    {
+        "lang": "PEG.js",
+        "color": "#234d6b",
+        "type": "programming"
+    },
+    {
+        "lang": "PHP",
+        "color": "#4F5D95",
+        "type": "programming"
+    },
+    {
+        "lang": "PLSQL",
+        "color": "#dad8d8",
+        "type": "programming"
+    },
+    {
+        "lang": "PLpgSQL",
+        "color": "#336790",
+        "type": "programming"
+    },
+    {
+        "lang": "POV-Ray SDL",
+        "color": "#6bac65",
+        "type": "programming"
+    },
+    {
+        "lang": "Pact",
+        "color": "#F7A8B8",
+        "type": "programming"
+    },
+    {
+        "lang": "Pan",
+        "color": "#cc0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Papyrus",
+        "color": "#6600cc",
+        "type": "programming"
+    },
+    {
+        "lang": "Parrot",
+        "color": "#f3ca0a",
+        "type": "programming"
+    },
+    {
+        "lang": "Parrot Assembly",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Parrot Internal Representation",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Pascal",
+        "color": "#E3F171",
+        "type": "programming"
+    },
+    {
+        "lang": "Pawn",
+        "color": "#dbb284",
+        "type": "programming"
+    },
+    {
+        "lang": "Pep8",
+        "color": "#C76F5B",
+        "type": "programming"
+    },
+    {
+        "lang": "Perl",
+        "color": "#0298c3",
+        "type": "programming"
+    },
+    {
+        "lang": "Pic",
+        "color": "#FF0000",
+        "type": "markup"
+    },
+    {
+        "lang": "Pickle",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "PicoLisp",
+        "color": "#6067af",
+        "type": "programming"
+    },
+    {
+        "lang": "PigLatin",
+        "color": "#fcd7de",
+        "type": "programming"
+    },
+    {
+        "lang": "Pike",
+        "color": "#005390",
+        "type": "programming"
+    },
+    {
+        "lang": "Pip Requirements",
+        "color": "#FFD343",
+        "type": "data"
+    },
+    {
+        "lang": "Pkl",
+        "color": "#6b9543",
+        "type": "programming"
+    },
+    {
+        "lang": "PlantUML",
+        "color": "#fbbd16",
+        "type": "data"
+    },
+    {
+        "lang": "Pod",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    {
+        "lang": "Pod 6",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    {
+        "lang": "PogoScript",
+        "color": "#d80074",
+        "type": "programming"
+    },
+    {
+        "lang": "Polar",
+        "color": "#ae81ff",
+        "type": "programming"
+    },
+    {
+        "lang": "Pony",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Portugol",
+        "color": "#f8bd00",
+        "type": "programming"
+    },
+    {
+        "lang": "PostCSS",
+        "color": "#dc3a0c",
+        "type": "markup"
+    },
+    {
+        "lang": "PostScript",
+        "color": "#da291c",
+        "type": "markup"
+    },
+    {
+        "lang": "PowerBuilder",
+        "color": "#8f0f8d",
+        "type": "programming"
+    },
+    {
+        "lang": "PowerShell",
+        "color": "#012456",
+        "type": "programming"
+    },
+    {
+        "lang": "Praat",
+        "color": "#c8506d",
+        "type": "programming"
+    },
+    {
+        "lang": "Prisma",
+        "color": "#0c344b",
+        "type": "data"
+    },
+    {
+        "lang": "Processing",
+        "color": "#0096D8",
+        "type": "programming"
+    },
+    {
+        "lang": "Procfile",
+        "color": "#3B2F63",
+        "type": "programming"
+    },
+    {
+        "lang": "Proguard",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Prolog",
+        "color": "#74283c",
+        "type": "programming"
+    },
+    {
+        "lang": "Promela",
+        "color": "#de0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Propeller Spin",
+        "color": "#7fa2a7",
+        "type": "programming"
+    },
+    {
+        "lang": "Protocol Buffer",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Protocol Buffer Text Format",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Public Key",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Pug",
+        "color": "#a86454",
+        "type": "markup"
+    },
+    {
+        "lang": "Puppet",
+        "color": "#302B6D",
+        "type": "programming"
+    },
+    {
+        "lang": "Pure Data",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "PureBasic",
+        "color": "#5a6986",
+        "type": "programming"
+    },
+    {
+        "lang": "PureScript",
+        "color": "#1D222D",
+        "type": "programming"
+    },
+    {
+        "lang": "Pyret",
+        "color": "#ee1e10",
+        "type": "programming"
+    },
+    {
+        "lang": "Python",
+        "color": "#3572A5",
+        "type": "programming"
+    },
+    {
+        "lang": "Python console",
+        "color": "#3572A5",
+        "type": "programming"
+    },
+    {
+        "lang": "Python traceback",
+        "color": "#3572A5",
+        "type": "data"
+    },
+    {
+        "lang": "Q#",
+        "color": "#fed659",
+        "type": "programming"
+    },
+    {
+        "lang": "QML",
+        "color": "#44a51c",
+        "type": "programming"
+    },
+    {
+        "lang": "QMake",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Qt Script",
+        "color": "#00b841",
+        "type": "programming"
+    },
+    {
+        "lang": "Quake",
+        "color": "#882233",
+        "type": "programming"
+    },
+    {
+        "lang": "QuickBASIC",
+        "color": "#008080",
+        "type": "programming"
+    },
+    {
+        "lang": "R",
+        "color": "#198CE7",
+        "type": "programming"
+    },
+    {
+        "lang": "RAML",
+        "color": "#77d9fb",
+        "type": "markup"
+    },
+    {
+        "lang": "RBS",
+        "color": "#701516",
+        "type": "data"
+    },
+    {
+        "lang": "RDoc",
+        "color": "#701516",
+        "type": "prose"
+    },
+    {
+        "lang": "REALbasic",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "REXX",
+        "color": "#d90e09",
+        "type": "programming"
+    },
+    {
+        "lang": "RMarkdown",
+        "color": "#198ce7",
+        "type": "prose"
+    },
+    {
+        "lang": "RON",
+        "color": "#a62c00",
+        "type": "data"
+    },
+    {
+        "lang": "RPC",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "RPGLE",
+        "color": "#2BDE21",
+        "type": "programming"
+    },
+    {
+        "lang": "RPM Spec",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "RUNOFF",
+        "color": "#665a4e",
+        "type": "markup"
+    },
+    {
+        "lang": "Racket",
+        "color": "#3c5caa",
+        "type": "programming"
+    },
+    {
+        "lang": "Ragel",
+        "color": "#9d5200",
+        "type": "programming"
+    },
+    {
+        "lang": "Raku",
+        "color": "#0000fb",
+        "type": "programming"
+    },
+    {
+        "lang": "Rascal",
+        "color": "#fffaa0",
+        "type": "programming"
+    },
+    {
+        "lang": "Raw token data",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "ReScript",
+        "color": "#ed5051",
+        "type": "programming"
+    },
+    {
+        "lang": "Readline Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Reason",
+        "color": "#ff5847",
+        "type": "programming"
+    },
+    {
+        "lang": "ReasonLIGO",
+        "color": "#ff5847",
+        "type": "programming"
+    },
+    {
+        "lang": "Rebol",
+        "color": "#358a5b",
+        "type": "programming"
+    },
+    {
+        "lang": "Record Jar",
+        "color": "#0673ba",
+        "type": "data"
+    },
+    {
+        "lang": "Red",
+        "color": "#f50000",
+        "type": "programming"
+    },
+    {
+        "lang": "Redcode",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Redirect Rules",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Regular Expression",
+        "color": "#009a00",
+        "type": "data"
+    },
+    {
+        "lang": "Ren'Py",
+        "color": "#ff7f7f",
+        "type": "programming"
+    },
+    {
+        "lang": "RenderScript",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Rez",
+        "color": "#FFDAB3",
+        "type": "programming"
+    },
+    {
+        "lang": "Rich Text Format",
+        "color": "#FF0000",
+        "type": "markup"
+    },
+    {
+        "lang": "Ring",
+        "color": "#2D54CB",
+        "type": "programming"
+    },
+    {
+        "lang": "Riot",
+        "color": "#A71E49",
+        "type": "markup"
+    },
+    {
+        "lang": "RobotFramework",
+        "color": "#00c0b5",
+        "type": "programming"
+    },
+    {
+        "lang": "Roc",
+        "color": "#7c38f5",
+        "type": "programming"
+    },
+    {
+        "lang": "Rocq Prover",
+        "color": "#d0b68c",
+        "type": "programming"
+    },
+    {
+        "lang": "Roff",
+        "color": "#ecdebe",
+        "type": "markup"
+    },
+    {
+        "lang": "Roff Manpage",
+        "color": "#ecdebe",
+        "type": "markup"
+    },
+    {
+        "lang": "Rouge",
+        "color": "#cc0088",
+        "type": "programming"
+    },
+    {
+        "lang": "RouterOS Script",
+        "color": "#DE3941",
+        "type": "programming"
+    },
+    {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    {
+        "lang": "Rust",
+        "color": "#dea584",
+        "type": "programming"
+    },
+    {
+        "lang": "SAS",
+        "color": "#B34936",
+        "type": "programming"
+    },
+    {
+        "lang": "SCSS",
+        "color": "#c6538c",
+        "type": "markup"
+    },
+    {
+        "lang": "SELinux Policy",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "SMT",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "SPARQL",
+        "color": "#0C4597",
+        "type": "data"
+    },
+    {
+        "lang": "SQF",
+        "color": "#3F3F3F",
+        "type": "programming"
+    },
+    {
+        "lang": "SQL",
+        "color": "#e38c00",
+        "type": "data"
+    },
+    {
+        "lang": "SQLPL",
+        "color": "#e38c00",
+        "type": "programming"
+    },
+    {
+        "lang": "SRecode Template",
+        "color": "#348a34",
+        "type": "markup"
+    },
+    {
+        "lang": "SSH Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "STAR",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "STL",
+        "color": "#373b5e",
+        "type": "data"
+    },
+    {
+        "lang": "STON",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "SVG",
+        "color": "#ff9900",
+        "type": "data"
+    },
+    {
+        "lang": "SWIG",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Sage",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Sail",
+        "color": "#259dd5",
+        "type": "programming"
+    },
+    {
+        "lang": "SaltStack",
+        "color": "#646464",
+        "type": "programming"
+    },
+    {
+        "lang": "Sass",
+        "color": "#a53b70",
+        "type": "markup"
+    },
+    {
+        "lang": "Scala",
+        "color": "#c22d40",
+        "type": "programming"
+    },
+    {
+        "lang": "Scaml",
+        "color": "#bd181a",
+        "type": "markup"
+    },
+    {
+        "lang": "Scenic",
+        "color": "#fdc700",
+        "type": "programming"
+    },
+    {
+        "lang": "Scheme",
+        "color": "#1e4aec",
+        "type": "programming"
+    },
+    {
+        "lang": "Scilab",
+        "color": "#ca0f21",
+        "type": "programming"
+    },
+    {
+        "lang": "Self",
+        "color": "#0579aa",
+        "type": "programming"
+    },
+    {
+        "lang": "ShaderLab",
+        "color": "#222c37",
+        "type": "programming"
+    },
+    {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    {
+        "lang": "ShellCheck Config",
+        "color": "#cecfcb",
+        "type": "data"
+    },
+    {
+        "lang": "ShellSession",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Shen",
+        "color": "#120F14",
+        "type": "programming"
+    },
+    {
+        "lang": "Sieve",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Simple File Verification",
+        "color": "#C9BFED",
+        "type": "data"
+    },
+    {
+        "lang": "Singularity",
+        "color": "#64E6AD",
+        "type": "programming"
+    },
+    {
+        "lang": "Slang",
+        "color": "#1fbec9",
+        "type": "programming"
+    },
+    {
+        "lang": "Slash",
+        "color": "#007eff",
+        "type": "programming"
+    },
+    {
+        "lang": "Slice",
+        "color": "#003fa2",
+        "type": "programming"
+    },
+    {
+        "lang": "Slim",
+        "color": "#2b2b2b",
+        "type": "markup"
+    },
+    {
+        "lang": "Slint",
+        "color": "#2379F4",
+        "type": "markup"
+    },
+    {
+        "lang": "SmPL",
+        "color": "#c94949",
+        "type": "programming"
+    },
+    {
+        "lang": "Smali",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Smalltalk",
+        "color": "#596706",
+        "type": "programming"
+    },
+    {
+        "lang": "Smarty",
+        "color": "#f0c040",
+        "type": "programming"
+    },
+    {
+        "lang": "Smithy",
+        "color": "#c44536",
+        "type": "programming"
+    },
+    {
+        "lang": "Snakemake",
+        "color": "#419179",
+        "type": "programming"
+    },
+    {
+        "lang": "Solidity",
+        "color": "#AA6746",
+        "type": "programming"
+    },
+    {
+        "lang": "Soong",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "SourcePawn",
+        "color": "#f69e1d",
+        "type": "programming"
+    },
+    {
+        "lang": "Spline Font Database",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Squirrel",
+        "color": "#800000",
+        "type": "programming"
+    },
+    {
+        "lang": "Stan",
+        "color": "#b2011d",
+        "type": "programming"
+    },
+    {
+        "lang": "Standard ML",
+        "color": "#dc566d",
+        "type": "programming"
+    },
+    {
+        "lang": "Starlark",
+        "color": "#76d275",
+        "type": "programming"
+    },
+    {
+        "lang": "Stata",
+        "color": "#1a5f91",
+        "type": "programming"
+    },
+    {
+        "lang": "StringTemplate",
+        "color": "#3fb34f",
+        "type": "markup"
+    },
+    {
+        "lang": "Stylus",
+        "color": "#ff6347",
+        "type": "markup"
+    },
+    {
+        "lang": "SubRip Text",
+        "color": "#9e0101",
+        "type": "data"
+    },
+    {
+        "lang": "SugarSS",
+        "color": "#2fcc9f",
+        "type": "markup"
+    },
+    {
+        "lang": "SuperCollider",
+        "color": "#46390b",
+        "type": "programming"
+    },
+    {
+        "lang": "Survex data",
+        "color": "#ffcc99",
+        "type": "data"
+    },
+    {
+        "lang": "Svelte",
+        "color": "#ff3e00",
+        "type": "markup"
+    },
+    {
+        "lang": "Sway",
+        "color": "#00F58C",
+        "type": "programming"
+    },
+    {
+        "lang": "Sweave",
+        "color": "#198ce7",
+        "type": "prose"
+    },
+    {
+        "lang": "Swift",
+        "color": "#F05138",
+        "type": "programming"
+    },
+    {
+        "lang": "SystemVerilog",
+        "color": "#DAE1C2",
+        "type": "programming"
+    },
+    {
+        "lang": "TI Program",
+        "color": "#A0AA87",
+        "type": "programming"
+    },
+    {
+        "lang": "TL-Verilog",
+        "color": "#C40023",
+        "type": "programming"
+    },
+    {
+        "lang": "TLA",
+        "color": "#4b0079",
+        "type": "programming"
+    },
+    {
+        "lang": "TOML",
+        "color": "#9c4221",
+        "type": "data"
+    },
+    {
+        "lang": "TSPLIB data",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "TSQL",
+        "color": "#e38c00",
+        "type": "programming"
+    },
+    {
+        "lang": "TSV",
+        "color": "#237346",
+        "type": "data"
+    },
+    {
+        "lang": "TSX",
+        "color": "#3178c6",
+        "type": "programming"
+    },
+    {
+        "lang": "TXL",
+        "color": "#0178b8",
+        "type": "programming"
+    },
+    {
+        "lang": "Tact",
+        "color": "#48b5ff",
+        "type": "programming"
+    },
+    {
+        "lang": "Talon",
+        "color": "#333333",
+        "type": "programming"
+    },
+    {
+        "lang": "Tcl",
+        "color": "#e4cc98",
+        "type": "programming"
+    },
+    {
+        "lang": "Tcsh",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "TeX",
+        "color": "#3D6117",
+        "type": "markup"
+    },
+    {
+        "lang": "Tea",
+        "color": "#FF0000",
+        "type": "markup"
+    },
+    {
+        "lang": "Terra",
+        "color": "#00004c",
+        "type": "programming"
+    },
+    {
+        "lang": "Terraform Template",
+        "color": "#7b42bb",
+        "type": "markup"
+    },
+    {
+        "lang": "Texinfo",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    {
+        "lang": "TextGrid",
+        "color": "#c8506d",
+        "type": "data"
+    },
+    {
+        "lang": "TextMate Properties",
+        "color": "#df66e4",
+        "type": "data"
+    },
+    {
+        "lang": "Textile",
+        "color": "#ffe7ac",
+        "type": "prose"
+    },
+    {
+        "lang": "Thrift",
+        "color": "#D12127",
+        "type": "programming"
+    },
+    {
+        "lang": "Toit",
+        "color": "#c2c9fb",
+        "type": "programming"
+    },
+    {
+        "lang": "Tree-sitter Query",
+        "color": "#8ea64c",
+        "type": "programming"
+    },
+    {
+        "lang": "Turing",
+        "color": "#cf142b",
+        "type": "programming"
+    },
+    {
+        "lang": "Turtle",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Twig",
+        "color": "#c1d026",
+        "type": "markup"
+    },
+    {
+        "lang": "Type Language",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "TypeScript",
+        "color": "#3178c6",
+        "type": "programming"
+    },
+    {
+        "lang": "TypeSpec",
+        "color": "#4A3665",
+        "type": "programming"
+    },
+    {
+        "lang": "Typst",
+        "color": "#239dad",
+        "type": "programming"
+    },
+    {
+        "lang": "Unified Parallel C",
+        "color": "#4e3617",
+        "type": "programming"
+    },
+    {
+        "lang": "Unity3D Asset",
+        "color": "#222c37",
+        "type": "data"
+    },
+    {
+        "lang": "Unix Assembly",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Uno",
+        "color": "#9933cc",
+        "type": "programming"
+    },
+    {
+        "lang": "UnrealScript",
+        "color": "#a54c4d",
+        "type": "programming"
+    },
+    {
+        "lang": "UrWeb",
+        "color": "#ccccee",
+        "type": "programming"
+    },
+    {
+        "lang": "V",
+        "color": "#4f87c4",
+        "type": "programming"
+    },
+    {
+        "lang": "VBA",
+        "color": "#867db1",
+        "type": "programming"
+    },
+    {
+        "lang": "VBScript",
+        "color": "#15dcdc",
+        "type": "programming"
+    },
+    {
+        "lang": "VCL",
+        "color": "#148AA8",
+        "type": "programming"
+    },
+    {
+        "lang": "VHDL",
+        "color": "#adb2cb",
+        "type": "programming"
+    },
+    {
+        "lang": "Vala",
+        "color": "#a56de2",
+        "type": "programming"
+    },
+    {
+        "lang": "Valve Data Format",
+        "color": "#f26025",
+        "type": "data"
+    },
+    {
+        "lang": "Velocity Template Language",
+        "color": "#507cff",
+        "type": "markup"
+    },
+    {
+        "lang": "Verilog",
+        "color": "#b2b7f8",
+        "type": "programming"
+    },
+    {
+        "lang": "Vim Help File",
+        "color": "#199f4b",
+        "type": "prose"
+    },
+    {
+        "lang": "Vim Script",
+        "color": "#199f4b",
+        "type": "programming"
+    },
+    {
+        "lang": "Vim Snippet",
+        "color": "#199f4b",
+        "type": "markup"
+    },
+    {
+        "lang": "Visual Basic .NET",
+        "color": "#945db7",
+        "type": "programming"
+    },
+    {
+        "lang": "Visual Basic 6.0",
+        "color": "#2c6353",
+        "type": "programming"
+    },
+    {
+        "lang": "Volt",
+        "color": "#1F1F1F",
+        "type": "programming"
+    },
+    {
+        "lang": "Vue",
+        "color": "#41b883",
+        "type": "markup"
+    },
+    {
+        "lang": "Vyper",
+        "color": "#2980b9",
+        "type": "programming"
+    },
+    {
+        "lang": "WDL",
+        "color": "#42f1f4",
+        "type": "programming"
+    },
+    {
+        "lang": "WGSL",
+        "color": "#1a5e9a",
+        "type": "programming"
+    },
+    {
+        "lang": "Wavefront Material",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Wavefront Object",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Web Ontology Language",
+        "color": "#5b70bd",
+        "type": "data"
+    },
+    {
+        "lang": "WebAssembly",
+        "color": "#04133b",
+        "type": "programming"
+    },
+    {
+        "lang": "WebAssembly Interface Type",
+        "color": "#6250e7",
+        "type": "data"
+    },
+    {
+        "lang": "WebIDL",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "WebVTT",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Wget Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Whiley",
+        "color": "#d5c397",
+        "type": "programming"
+    },
+    {
+        "lang": "Wikitext",
+        "color": "#fc5757",
+        "type": "prose"
+    },
+    {
+        "lang": "Win32 Message File",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "Windows Registry Entries",
+        "color": "#52d5ff",
+        "type": "data"
+    },
+    {
+        "lang": "Witcher Script",
+        "color": "#ff0000",
+        "type": "programming"
+    },
+    {
+        "lang": "Wollok",
+        "color": "#a23738",
+        "type": "programming"
+    },
+    {
+        "lang": "World of Warcraft Addon Data",
+        "color": "#f7e43f",
+        "type": "data"
+    },
+    {
+        "lang": "Wren",
+        "color": "#383838",
+        "type": "programming"
+    },
+    {
+        "lang": "X BitMap",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "X Font Directory Index",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "X PixMap",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "X10",
+        "color": "#4B6BEF",
+        "type": "programming"
+    },
+    {
+        "lang": "XC",
+        "color": "#99DA07",
+        "type": "programming"
+    },
+    {
+        "lang": "XCompose",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "XML",
+        "color": "#0060ac",
+        "type": "data"
+    },
+    {
+        "lang": "XML Property List",
+        "color": "#0060ac",
+        "type": "data"
+    },
+    {
+        "lang": "XPages",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "XProc",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "XQuery",
+        "color": "#5232e7",
+        "type": "programming"
+    },
+    {
+        "lang": "XS",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "XSLT",
+        "color": "#EB8CEB",
+        "type": "programming"
+    },
+    {
+        "lang": "Xmake",
+        "color": "#22a079",
+        "type": "programming"
+    },
+    {
+        "lang": "Xojo",
+        "color": "#81bd41",
+        "type": "programming"
+    },
+    {
+        "lang": "Xonsh",
+        "color": "#285EEF",
+        "type": "programming"
+    },
+    {
+        "lang": "Xtend",
+        "color": "#24255d",
+        "type": "programming"
+    },
+    {
+        "lang": "YAML",
+        "color": "#cb171e",
+        "type": "data"
+    },
+    {
+        "lang": "YANG",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "YARA",
+        "color": "#220000",
+        "type": "programming"
+    },
+    {
+        "lang": "YASnippet",
+        "color": "#32AB90",
+        "type": "markup"
+    },
+    {
+        "lang": "Yacc",
+        "color": "#4B6C4B",
+        "type": "programming"
+    },
+    {
+        "lang": "Yul",
+        "color": "#794932",
+        "type": "programming"
+    },
+    {
+        "lang": "ZAP",
+        "color": "#0d665e",
+        "type": "programming"
+    },
+    {
+        "lang": "ZIL",
+        "color": "#dc75e5",
+        "type": "programming"
+    },
+    {
+        "lang": "Zeek",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    {
+        "lang": "ZenScript",
+        "color": "#00BCD1",
+        "type": "programming"
+    },
+    {
+        "lang": "Zephir",
+        "color": "#118f9e",
+        "type": "programming"
+    },
+    {
+        "lang": "Zig",
+        "color": "#ec915c",
+        "type": "programming"
+    },
+    {
+        "lang": "Zimpl",
+        "color": "#d67711",
+        "type": "programming"
+    },
+    {
+        "lang": "cURL Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "crontab",
+        "color": "#ead7ac",
+        "type": "data"
+    },
+    {
+        "lang": "desktop",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "dircolors",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "eC",
+        "color": "#913960",
+        "type": "programming"
+    },
+    {
+        "lang": "edn",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "fish",
+        "color": "#4aae47",
+        "type": "programming"
+    },
+    {
+        "lang": "hoon",
+        "color": "#00b171",
+        "type": "programming"
+    },
+    {
+        "lang": "iCalendar",
+        "color": "#ec564c",
+        "type": "data"
+    },
+    {
+        "lang": "jq",
+        "color": "#c7254e",
+        "type": "programming"
+    },
+    {
+        "lang": "kvlang",
+        "color": "#1da6e0",
+        "type": "markup"
+    },
+    {
+        "lang": "mIRC Script",
+        "color": "#3d57c3",
+        "type": "programming"
+    },
+    {
+        "lang": "mcfunction",
+        "color": "#E22837",
+        "type": "programming"
+    },
+    {
+        "lang": "mdsvex",
+        "color": "#5f9ea0",
+        "type": "markup"
+    },
+    {
+        "lang": "mupad",
+        "color": "#244963",
+        "type": "programming"
+    },
+    {
+        "lang": "nanorc",
+        "color": "#2d004d",
+        "type": "data"
+    },
+    {
+        "lang": "nesC",
+        "color": "#94B0C7",
+        "type": "programming"
+    },
+    {
+        "lang": "ooc",
+        "color": "#b0b77e",
+        "type": "programming"
+    },
+    {
+        "lang": "q",
+        "color": "#0040cd",
+        "type": "programming"
+    },
+    {
+        "lang": "reStructuredText",
+        "color": "#141414",
+        "type": "prose"
+    },
+    {
+        "lang": "robots.txt",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    {
+        "lang": "sed",
+        "color": "#64b970",
+        "type": "programming"
+    },
+    {
+        "lang": "templ",
+        "color": "#66D0DD",
+        "type": "markup"
+    },
+    {
+        "lang": "vCard",
+        "color": "#ee2647",
+        "type": "data"
+    },
+    {
+        "lang": "wisp",
+        "color": "#7582D1",
+        "type": "programming"
+    },
+    {
+        "lang": "xBase",
+        "color": "#403a40",
+        "type": "programming"
+    }
+]

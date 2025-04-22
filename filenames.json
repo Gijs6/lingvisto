@@ -1,0 +1,1912 @@
+{
+    "APKBUILD": {
+        "lang": "Alpine Abuild",
+        "color": "#0D597F",
+        "type": "programming"
+    },
+    "ant.xml": {
+        "lang": "Ant Build System",
+        "color": "#A9157E",
+        "type": "data"
+    },
+    "build.xml": {
+        "lang": "Ant Build System",
+        "color": "#A9157E",
+        "type": "data"
+    },
+    ".htaccess": {
+        "lang": "ApacheConf",
+        "color": "#d12127",
+        "type": "data"
+    },
+    "apache2.conf": {
+        "lang": "ApacheConf",
+        "color": "#d12127",
+        "type": "data"
+    },
+    "httpd.conf": {
+        "lang": "ApacheConf",
+        "color": "#d12127",
+        "type": "data"
+    },
+    ".browserslistrc": {
+        "lang": "Browserslist",
+        "color": "#ffd539",
+        "type": "data"
+    },
+    "browserslist": {
+        "lang": "Browserslist",
+        "color": "#ffd539",
+        "type": "data"
+    },
+    "CMakeLists.txt": {
+        "lang": "CMake",
+        "color": "#DA3434",
+        "type": "programming"
+    },
+    "CODEOWNERS": {
+        "lang": "CODEOWNERS",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "cabal.config": {
+        "lang": "Cabal Config",
+        "color": "#483465",
+        "type": "data"
+    },
+    "cabal.project": {
+        "lang": "Cabal Config",
+        "color": "#483465",
+        "type": "data"
+    },
+    "Caddyfile": {
+        "lang": "Caddyfile",
+        "color": "#22b638",
+        "type": "data"
+    },
+    "MD5SUMS": {
+        "lang": "Checksums",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "SHA1SUMS": {
+        "lang": "Checksums",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "SHA256SUMS": {
+        "lang": "Checksums",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "SHA256SUMS.txt": {
+        "lang": "Checksums",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "SHA512SUMS": {
+        "lang": "Checksums",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "checksums.txt": {
+        "lang": "Checksums",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "cksums": {
+        "lang": "Checksums",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "md5sum.txt": {
+        "lang": "Checksums",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "riemann.config": {
+        "lang": "Clojure",
+        "color": "#db5855",
+        "type": "programming"
+    },
+    "firestore.rules": {
+        "lang": "Cloud Firestore Security Rules",
+        "color": "#FFA000",
+        "type": "data"
+    },
+    "Cakefile": {
+        "lang": "CoffeeScript",
+        "color": "#244776",
+        "type": "programming"
+    },
+    "suite.rc": {
+        "lang": "Cylc",
+        "color": "#00b3fd",
+        "type": "data"
+    },
+    "Containerfile": {
+        "lang": "Dockerfile",
+        "color": "#384d54",
+        "type": "programming"
+    },
+    "Dockerfile": {
+        "lang": "Dockerfile",
+        "color": "#384d54",
+        "type": "programming"
+    },
+    ".env": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    ".env.ci": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    ".env.dev": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    ".env.development": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    ".env.development.local": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    ".env.example": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    ".env.local": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    ".env.prod": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    ".env.production": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    ".env.sample": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    ".env.staging": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    ".env.test": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    ".env.testing": {
+        "lang": "Dotenv",
+        "color": "#e5d559",
+        "type": "data"
+    },
+    "dune-project": {
+        "lang": "Dune",
+        "color": "#89421e",
+        "type": "programming"
+    },
+    "Earthfile": {
+        "lang": "Earthly",
+        "color": "#2af0ff",
+        "type": "programming"
+    },
+    ".editorconfig": {
+        "lang": "EditorConfig",
+        "color": "#fff1f2",
+        "type": "data"
+    },
+    "mix.lock": {
+        "lang": "Elixir",
+        "color": "#6e4a7e",
+        "type": "programming"
+    },
+    ".abbrev_defs": {
+        "lang": "Emacs Lisp",
+        "color": "#c065db",
+        "type": "programming"
+    },
+    ".emacs": {
+        "lang": "Emacs Lisp",
+        "color": "#c065db",
+        "type": "programming"
+    },
+    ".emacs.desktop": {
+        "lang": "Emacs Lisp",
+        "color": "#c065db",
+        "type": "programming"
+    },
+    ".gnus": {
+        "lang": "Emacs Lisp",
+        "color": "#c065db",
+        "type": "programming"
+    },
+    ".spacemacs": {
+        "lang": "Emacs Lisp",
+        "color": "#c065db",
+        "type": "programming"
+    },
+    ".viper": {
+        "lang": "Emacs Lisp",
+        "color": "#c065db",
+        "type": "programming"
+    },
+    "Cask": {
+        "lang": "Emacs Lisp",
+        "color": "#c065db",
+        "type": "programming"
+    },
+    "Project.ede": {
+        "lang": "Emacs Lisp",
+        "color": "#c065db",
+        "type": "programming"
+    },
+    "_emacs": {
+        "lang": "Emacs Lisp",
+        "color": "#c065db",
+        "type": "programming"
+    },
+    "abbrev_defs": {
+        "lang": "Emacs Lisp",
+        "color": "#c065db",
+        "type": "programming"
+    },
+    "Emakefile": {
+        "lang": "Erlang",
+        "color": "#B83998",
+        "type": "programming"
+    },
+    "rebar.config": {
+        "lang": "Erlang",
+        "color": "#B83998",
+        "type": "programming"
+    },
+    "rebar.config.lock": {
+        "lang": "Erlang",
+        "color": "#B83998",
+        "type": "programming"
+    },
+    "rebar.lock": {
+        "lang": "Erlang",
+        "color": "#B83998",
+        "type": "programming"
+    },
+    ".factor-boot-rc": {
+        "lang": "Factor",
+        "color": "#636746",
+        "type": "programming"
+    },
+    ".factor-rc": {
+        "lang": "Factor",
+        "color": "#636746",
+        "type": "programming"
+    },
+    "Fakefile": {
+        "lang": "Fancy",
+        "color": "#7b9db4",
+        "type": "programming"
+    },
+    ".gn": {
+        "lang": "GN",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "Gemfile.lock": {
+        "lang": "Gemfile.lock",
+        "color": "#701516",
+        "type": "data"
+    },
+    ".gitattributes": {
+        "lang": "Git Attributes",
+        "color": "#F44D27",
+        "type": "data"
+    },
+    ".gitconfig": {
+        "lang": "Git Config",
+        "color": "#F44D27",
+        "type": "data"
+    },
+    ".gitmodules": {
+        "lang": "Git Config",
+        "color": "#F44D27",
+        "type": "data"
+    },
+    ".git-blame-ignore-revs": {
+        "lang": "Git Revision List",
+        "color": "#F44D27",
+        "type": "data"
+    },
+    "go.sum": {
+        "lang": "Go Checksums",
+        "color": "#00ADD8",
+        "type": "data"
+    },
+    "go.work.sum": {
+        "lang": "Go Checksums",
+        "color": "#00ADD8",
+        "type": "data"
+    },
+    "go.mod": {
+        "lang": "Go Module",
+        "color": "#00ADD8",
+        "type": "data"
+    },
+    "go.work": {
+        "lang": "Go Workspace",
+        "color": "#00ADD8",
+        "type": "data"
+    },
+    "project.godot": {
+        "lang": "Godot Resource",
+        "color": "#355570",
+        "type": "data"
+    },
+    "Jenkinsfile": {
+        "lang": "Groovy",
+        "color": "#4298b8",
+        "type": "programming"
+    },
+    "haproxy.cfg": {
+        "lang": "HAProxy",
+        "color": "#106da9",
+        "type": "data"
+    },
+    ".scalafix.conf": {
+        "lang": "HOCON",
+        "color": "#9ff8ee",
+        "type": "data"
+    },
+    ".scalafmt.conf": {
+        "lang": "HOCON",
+        "color": "#9ff8ee",
+        "type": "data"
+    },
+    "HOSTS": {
+        "lang": "INI",
+        "color": "#d1dbe0",
+        "type": "data"
+    },
+    "hosts": {
+        "lang": "INI",
+        "color": "#d1dbe0",
+        "type": "data"
+    },
+    "hosts.txt": {
+        "lang": "Hosts File",
+        "color": "#308888",
+        "type": "data"
+    },
+    ".buckconfig": {
+        "lang": "INI",
+        "color": "#d1dbe0",
+        "type": "data"
+    },
+    ".coveragerc": {
+        "lang": "INI",
+        "color": "#d1dbe0",
+        "type": "data"
+    },
+    ".flake8": {
+        "lang": "INI",
+        "color": "#d1dbe0",
+        "type": "data"
+    },
+    ".pylintrc": {
+        "lang": "INI",
+        "color": "#d1dbe0",
+        "type": "data"
+    },
+    "buildozer.spec": {
+        "lang": "INI",
+        "color": "#d1dbe0",
+        "type": "data"
+    },
+    "pylintrc": {
+        "lang": "INI",
+        "color": "#d1dbe0",
+        "type": "data"
+    },
+    "vlcrc": {
+        "lang": "INI",
+        "color": "#d1dbe0",
+        "type": "data"
+    },
+    ".atomignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".babelignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".bzrignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".coffeelintignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".cvsignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".dockerignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".easignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".eleventyignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".eslintignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".gitignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".ignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".markdownlintignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".nodemonignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".npmignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".prettierignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".stylelintignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".vercelignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    ".vscodeignore": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    "gitignore-global": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    "gitignore_global": {
+        "lang": "Ignore List",
+        "color": "#000000",
+        "type": "data"
+    },
+    "ROOT": {
+        "lang": "Isabelle ROOT",
+        "color": "#FEFE00",
+        "type": "programming"
+    },
+    "MANIFEST.MF": {
+        "lang": "JAR Manifest",
+        "color": "#b07219",
+        "type": "data"
+    },
+    ".all-contributorsrc": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".arcconfig": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".auto-changelog": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".c8rc": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".htmlhintrc": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".imgbotconfig": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".nycrc": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".tern-config": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".tern-project": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".watchmanconfig": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    "MODULE.bazel.lock": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    "Package.resolved": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    "Pipfile.lock": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    "bun.lock": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    "composer.lock": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    "deno.lock": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    "flake.lock": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    "mcmod.info": {
+        "lang": "JSON",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".babelrc": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".devcontainer.json": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".eslintrc.json": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".jscsrc": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".jshintrc": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".jslintrc": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    ".swcrc": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    "api-extractor.json": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    "devcontainer.json": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    "jsconfig.json": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    "language-configuration.json": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    "tsconfig.json": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    "tslint.json": {
+        "lang": "JSON with Comments",
+        "color": "#292929",
+        "type": "data"
+    },
+    "Jakefile": {
+        "lang": "JavaScript",
+        "color": "#f1e05a",
+        "type": "programming"
+    },
+    "Notebook": {
+        "lang": "Jupyter Notebook",
+        "color": "#DA5B0B",
+        "type": "markup"
+    },
+    ".JUSTFILE": {
+        "lang": "Just",
+        "color": "#384d54",
+        "type": "programming"
+    },
+    ".Justfile": {
+        "lang": "Just",
+        "color": "#384d54",
+        "type": "programming"
+    },
+    ".justfile": {
+        "lang": "Just",
+        "color": "#384d54",
+        "type": "programming"
+    },
+    "JUSTFILE": {
+        "lang": "Just",
+        "color": "#384d54",
+        "type": "programming"
+    },
+    "Justfile": {
+        "lang": "Just",
+        "color": "#384d54",
+        "type": "programming"
+    },
+    "justfile": {
+        "lang": "Just",
+        "color": "#384d54",
+        "type": "programming"
+    },
+    "kakrc": {
+        "lang": "KakouneScript",
+        "color": "#6f8042",
+        "type": "programming"
+    },
+    "fp-lib-table": {
+        "lang": "KiCad Layout",
+        "color": "#2f4aab",
+        "type": "data"
+    },
+    "Lexer.x": {
+        "lang": "Lex",
+        "color": "#DBCA00",
+        "type": "programming"
+    },
+    "lexer.x": {
+        "lang": "Lex",
+        "color": "#DBCA00",
+        "type": "programming"
+    },
+    "ld.script": {
+        "lang": "Linker Script",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    "Slakefile": {
+        "lang": "LiveScript",
+        "color": "#499886",
+        "type": "programming"
+    },
+    ".luacheckrc": {
+        "lang": "Lua",
+        "color": "#000080",
+        "type": "programming"
+    },
+    "configure.ac": {
+        "lang": "M4Sugar",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    "BSDmakefile": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "GNUmakefile": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "Kbuild": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "Makefile": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "Makefile.am": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "Makefile.boot": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "Makefile.frag": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "Makefile.in": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "Makefile.inc": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "Makefile.wat": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "makefile": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "makefile.sco": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "mkfile": {
+        "lang": "Makefile",
+        "color": "#427819",
+        "type": "programming"
+    },
+    "contents.lr": {
+        "lang": "Markdown",
+        "color": "#083fa1",
+        "type": "prose"
+    },
+    "pom.xml": {
+        "lang": "Maven POM",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "meson.build": {
+        "lang": "Meson",
+        "color": "#007800",
+        "type": "programming"
+    },
+    "meson_options.txt": {
+        "lang": "Meson",
+        "color": "#007800",
+        "type": "programming"
+    },
+    "descrip.mmk": {
+        "lang": "Module Management System",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    "descrip.mms": {
+        "lang": "Module Management System",
+        "color": "#FF0000",
+        "type": "programming"
+    },
+    ".npmrc": {
+        "lang": "NPM Config",
+        "color": "#cb3837",
+        "type": "data"
+    },
+    "nextflow.config": {
+        "lang": "Nextflow",
+        "color": "#3ac486",
+        "type": "programming"
+    },
+    "nginx.conf": {
+        "lang": "Nginx",
+        "color": "#009639",
+        "type": "data"
+    },
+    "nim.cfg": {
+        "lang": "Nim",
+        "color": "#ffc200",
+        "type": "programming"
+    },
+    "Nukefile": {
+        "lang": "Nu",
+        "color": "#c9df40",
+        "type": "programming"
+    },
+    ".ackrc": {
+        "lang": "Option List",
+        "color": "#476732",
+        "type": "data"
+    },
+    ".rspec": {
+        "lang": "Option List",
+        "color": "#476732",
+        "type": "data"
+    },
+    ".yardopts": {
+        "lang": "Option List",
+        "color": "#476732",
+        "type": "data"
+    },
+    "ackrc": {
+        "lang": "Option List",
+        "color": "#476732",
+        "type": "data"
+    },
+    "mocha.opts": {
+        "lang": "Option List",
+        "color": "#476732",
+        "type": "data"
+    },
+    ".php": {
+        "lang": "PHP",
+        "color": "#4F5D95",
+        "type": "programming"
+    },
+    ".php_cs": {
+        "lang": "PHP",
+        "color": "#4F5D95",
+        "type": "programming"
+    },
+    ".php_cs.dist": {
+        "lang": "PHP",
+        "color": "#4F5D95",
+        "type": "programming"
+    },
+    "Phakefile": {
+        "lang": "PHP",
+        "color": "#4F5D95",
+        "type": "programming"
+    },
+    ".latexmkrc": {
+        "lang": "Perl",
+        "color": "#0298c3",
+        "type": "programming"
+    },
+    "Makefile.PL": {
+        "lang": "Perl",
+        "color": "#0298c3",
+        "type": "programming"
+    },
+    "Rexfile": {
+        "lang": "Perl",
+        "color": "#0298c3",
+        "type": "programming"
+    },
+    "ack": {
+        "lang": "Perl",
+        "color": "#0298c3",
+        "type": "programming"
+    },
+    "cpanfile": {
+        "lang": "Perl",
+        "color": "#0298c3",
+        "type": "programming"
+    },
+    "latexmkrc": {
+        "lang": "Perl",
+        "color": "#0298c3",
+        "type": "programming"
+    },
+    "requirements-dev.txt": {
+        "lang": "Pip Requirements",
+        "color": "#FFD343",
+        "type": "data"
+    },
+    "requirements.txt": {
+        "lang": "Pip Requirements",
+        "color": "#FFD343",
+        "type": "data"
+    },
+    "Procfile": {
+        "lang": "Procfile",
+        "color": "#3B2F63",
+        "type": "programming"
+    },
+    "Modulefile": {
+        "lang": "Puppet",
+        "color": "#302B6D",
+        "type": "programming"
+    },
+    ".gclient": {
+        "lang": "Python",
+        "color": "#3572A5",
+        "type": "programming"
+    },
+    "DEPS": {
+        "lang": "Python",
+        "color": "#3572A5",
+        "type": "programming"
+    },
+    "SConscript": {
+        "lang": "Python",
+        "color": "#3572A5",
+        "type": "programming"
+    },
+    "SConstruct": {
+        "lang": "Python",
+        "color": "#3572A5",
+        "type": "programming"
+    },
+    "wscript": {
+        "lang": "Python",
+        "color": "#3572A5",
+        "type": "programming"
+    },
+    "installscript.qs": {
+        "lang": "Qt Script",
+        "color": "#00b841",
+        "type": "programming"
+    },
+    "toolchain_installscript.qs": {
+        "lang": "Qt Script",
+        "color": "#00b841",
+        "type": "programming"
+    },
+    "m3makefile": {
+        "lang": "Quake",
+        "color": "#882233",
+        "type": "programming"
+    },
+    "m3overrides": {
+        "lang": "Quake",
+        "color": "#882233",
+        "type": "programming"
+    },
+    ".Rprofile": {
+        "lang": "R",
+        "color": "#198CE7",
+        "type": "programming"
+    },
+    "expr-dist": {
+        "lang": "R",
+        "color": "#198CE7",
+        "type": "programming"
+    },
+    ".inputrc": {
+        "lang": "Readline Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "inputrc": {
+        "lang": "Readline Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "language-subtag-registry.txt": {
+        "lang": "Record Jar",
+        "color": "#0673ba",
+        "type": "data"
+    },
+    "_redirects": {
+        "lang": "Redirect Rules",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "eqnrc": {
+        "lang": "Roff",
+        "color": "#ecdebe",
+        "type": "markup"
+    },
+    "mmn": {
+        "lang": "Roff",
+        "color": "#ecdebe",
+        "type": "markup"
+    },
+    "mmt": {
+        "lang": "Roff",
+        "color": "#ecdebe",
+        "type": "markup"
+    },
+    "troffrc": {
+        "lang": "Roff",
+        "color": "#ecdebe",
+        "type": "markup"
+    },
+    "troffrc-end": {
+        "lang": "Roff",
+        "color": "#ecdebe",
+        "type": "markup"
+    },
+    ".irbrc": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    ".pryrc": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    ".simplecov": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Appraisals": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Berksfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Brewfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Buildfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Capfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Dangerfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Deliverfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Fastfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Gemfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Guardfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Jarfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Mavenfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Podfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Puppetfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Rakefile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Snapfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Steepfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Thorfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "Vagrantfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "buildfile": {
+        "lang": "Ruby",
+        "color": "#701516",
+        "type": "programming"
+    },
+    "file_contexts": {
+        "lang": "SELinux Policy",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "genfs_contexts": {
+        "lang": "SELinux Policy",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "initial_sids": {
+        "lang": "SELinux Policy",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "port_contexts": {
+        "lang": "SELinux Policy",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "security_classes": {
+        "lang": "SELinux Policy",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "ssh-config": {
+        "lang": "SSH Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "ssh_config": {
+        "lang": "SSH Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "sshconfig": {
+        "lang": "SSH Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "sshconfig.snip": {
+        "lang": "SSH Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "sshd-config": {
+        "lang": "SSH Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "sshd_config": {
+        "lang": "SSH Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    ".bash_aliases": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".bash_functions": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".bash_history": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".bash_logout": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".bash_profile": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".bashrc": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".cshrc": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".envrc": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".flaskenv": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".kshrc": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".login": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".profile": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".tmux.conf": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".zlogin": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".zlogout": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".zprofile": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".zshenv": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".zshrc": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "9fs": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "PKGBUILD": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "bash_aliases": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "bash_logout": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "bash_profile": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "bashrc": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "cshrc": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "gradlew": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "kshrc": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "login": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "man": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "profile": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "tmux.conf": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "zlogin": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "zlogout": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "zprofile": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "zshenv": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    "zshrc": {
+        "lang": "Shell",
+        "color": "#89e051",
+        "type": "programming"
+    },
+    ".shellcheckrc": {
+        "lang": "ShellCheck Config",
+        "color": "#cecfcb",
+        "type": "data"
+    },
+    "Singularity": {
+        "lang": "Singularity",
+        "color": "#64E6AD",
+        "type": "programming"
+    },
+    "Snakefile": {
+        "lang": "Snakemake",
+        "color": "#419179",
+        "type": "programming"
+    },
+    "Android.bp": {
+        "lang": "Soong",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "BUCK": {
+        "lang": "Starlark",
+        "color": "#76d275",
+        "type": "programming"
+    },
+    "BUILD": {
+        "lang": "Starlark",
+        "color": "#76d275",
+        "type": "programming"
+    },
+    "BUILD.bazel": {
+        "lang": "Starlark",
+        "color": "#76d275",
+        "type": "programming"
+    },
+    "MODULE.bazel": {
+        "lang": "Starlark",
+        "color": "#76d275",
+        "type": "programming"
+    },
+    "Tiltfile": {
+        "lang": "Starlark",
+        "color": "#76d275",
+        "type": "programming"
+    },
+    "WORKSPACE": {
+        "lang": "Starlark",
+        "color": "#76d275",
+        "type": "programming"
+    },
+    "WORKSPACE.bazel": {
+        "lang": "Starlark",
+        "color": "#76d275",
+        "type": "programming"
+    },
+    "WORKSPACE.bzlmod": {
+        "lang": "Starlark",
+        "color": "#76d275",
+        "type": "programming"
+    },
+    "Cargo.lock": {
+        "lang": "TOML",
+        "color": "#9c4221",
+        "type": "data"
+    },
+    "Cargo.toml.orig": {
+        "lang": "TOML",
+        "color": "#9c4221",
+        "type": "data"
+    },
+    "Gopkg.lock": {
+        "lang": "TOML",
+        "color": "#9c4221",
+        "type": "data"
+    },
+    "Pipfile": {
+        "lang": "TOML",
+        "color": "#9c4221",
+        "type": "data"
+    },
+    "pdm.lock": {
+        "lang": "TOML",
+        "color": "#9c4221",
+        "type": "data"
+    },
+    "poetry.lock": {
+        "lang": "TOML",
+        "color": "#9c4221",
+        "type": "data"
+    },
+    "uv.lock": {
+        "lang": "TOML",
+        "color": "#9c4221",
+        "type": "data"
+    },
+    "owh": {
+        "lang": "Tcl",
+        "color": "#e4cc98",
+        "type": "programming"
+    },
+    "starfield": {
+        "lang": "Tcl",
+        "color": "#e4cc98",
+        "type": "programming"
+    },
+    "CITATION": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "CITATIONS": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "COPYING": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "COPYING.regex": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "COPYRIGHT.regex": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "FONTLOG": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "INSTALL": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "INSTALL.mysql": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "LICENSE": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "LICENSE.mysql": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "NEWS": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "README.me": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "README.mysql": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "README.nss": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "click.me": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "delete.me": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "keep.me": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "package.mask": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "package.use.mask": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "package.use.stable.mask": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "read.me": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "readme.1st": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "test.me": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "use.mask": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    "use.stable.mask": {
+        "lang": "Text",
+        "color": "#FF0000",
+        "type": "prose"
+    },
+    ".tm_properties": {
+        "lang": "TextMate Properties",
+        "color": "#df66e4",
+        "type": "data"
+    },
+    ".exrc": {
+        "lang": "Vim Script",
+        "color": "#199f4b",
+        "type": "programming"
+    },
+    ".gvimrc": {
+        "lang": "Vim Script",
+        "color": "#199f4b",
+        "type": "programming"
+    },
+    ".nvimrc": {
+        "lang": "Vim Script",
+        "color": "#199f4b",
+        "type": "programming"
+    },
+    ".vimrc": {
+        "lang": "Vim Script",
+        "color": "#199f4b",
+        "type": "programming"
+    },
+    "_vimrc": {
+        "lang": "Vim Script",
+        "color": "#199f4b",
+        "type": "programming"
+    },
+    "gvimrc": {
+        "lang": "Vim Script",
+        "color": "#199f4b",
+        "type": "programming"
+    },
+    "nvimrc": {
+        "lang": "Vim Script",
+        "color": "#199f4b",
+        "type": "programming"
+    },
+    "vimrc": {
+        "lang": "Vim Script",
+        "color": "#199f4b",
+        "type": "programming"
+    },
+    ".wgetrc": {
+        "lang": "Wget Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "encodings.dir": {
+        "lang": "X Font Directory Index",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "fonts.alias": {
+        "lang": "X Font Directory Index",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "fonts.dir": {
+        "lang": "X Font Directory Index",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "fonts.scale": {
+        "lang": "X Font Directory Index",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    ".XCompose": {
+        "lang": "XCompose",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "XCompose": {
+        "lang": "XCompose",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "xcompose": {
+        "lang": "XCompose",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    ".classpath": {
+        "lang": "XML",
+        "color": "#0060ac",
+        "type": "data"
+    },
+    ".cproject": {
+        "lang": "XML",
+        "color": "#0060ac",
+        "type": "data"
+    },
+    ".project": {
+        "lang": "XML",
+        "color": "#0060ac",
+        "type": "data"
+    },
+    "App.config": {
+        "lang": "XML",
+        "color": "#0060ac",
+        "type": "data"
+    },
+    "NuGet.config": {
+        "lang": "XML",
+        "color": "#0060ac",
+        "type": "data"
+    },
+    "Settings.StyleCop": {
+        "lang": "XML",
+        "color": "#0060ac",
+        "type": "data"
+    },
+    "Web.Debug.config": {
+        "lang": "XML",
+        "color": "#0060ac",
+        "type": "data"
+    },
+    "Web.Release.config": {
+        "lang": "XML",
+        "color": "#0060ac",
+        "type": "data"
+    },
+    "Web.config": {
+        "lang": "XML",
+        "color": "#0060ac",
+        "type": "data"
+    },
+    "packages.config": {
+        "lang": "XML",
+        "color": "#0060ac",
+        "type": "data"
+    },
+    "xmake.lua": {
+        "lang": "Xmake",
+        "color": "#22a079",
+        "type": "programming"
+    },
+    ".clang-format": {
+        "lang": "YAML",
+        "color": "#cb171e",
+        "type": "data"
+    },
+    ".clang-tidy": {
+        "lang": "YAML",
+        "color": "#cb171e",
+        "type": "data"
+    },
+    ".clangd": {
+        "lang": "YAML",
+        "color": "#cb171e",
+        "type": "data"
+    },
+    ".gemrc": {
+        "lang": "YAML",
+        "color": "#cb171e",
+        "type": "data"
+    },
+    "CITATION.cff": {
+        "lang": "YAML",
+        "color": "#cb171e",
+        "type": "data"
+    },
+    "glide.lock": {
+        "lang": "YAML",
+        "color": "#cb171e",
+        "type": "data"
+    },
+    "pixi.lock": {
+        "lang": "YAML",
+        "color": "#cb171e",
+        "type": "data"
+    },
+    "yarn.lock": {
+        "lang": "YAML",
+        "color": "#cb171e",
+        "type": "data"
+    },
+    ".curlrc": {
+        "lang": "cURL Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "_curlrc": {
+        "lang": "cURL Config",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "crontab": {
+        "lang": "crontab",
+        "color": "#ead7ac",
+        "type": "data"
+    },
+    ".dir_colors": {
+        "lang": "dircolors",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    ".dircolors": {
+        "lang": "dircolors",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "DIR_COLORS": {
+        "lang": "dircolors",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "_dir_colors": {
+        "lang": "dircolors",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "_dircolors": {
+        "lang": "dircolors",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    "dir_colors": {
+        "lang": "dircolors",
+        "color": "#FF0000",
+        "type": "data"
+    },
+    ".nanorc": {
+        "lang": "nanorc",
+        "color": "#2d004d",
+        "type": "data"
+    },
+    "nanorc": {
+        "lang": "nanorc",
+        "color": "#2d004d",
+        "type": "data"
+    },
+    "robots.txt": {
+        "lang": "robots.txt",
+        "color": "#FF0000",
+        "type": "data"
+    }
+}
